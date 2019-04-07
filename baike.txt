@@ -1,0 +1,616 @@
+{'person_achiem': '“中国物流诚信企业家”',
+ 'person_birthDay': '1966年4月',
+ 'person_birthPlace': '浙江桐庐',
+ 'person_chName': '喻渭蛟',
+ 'person_description': '喻渭蛟，浙江桐庐人，中共党员，现任上海圆通蛟龙投资发展（集团）有限公司、圆通速递有限公司董事长、总裁、党委书记。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'person_achiem': '经营最大的民营快递公司',
+ 'person_birthDay': '1970年',
+ 'person_birthPlace': '浙江桐庐',
+ 'person_chName': '陈德军',
+ 'person_description': '陈德军，申通快递有限公司董事长、上海盛彤实业有限公司董事长、上海快递协会会长、桐庐县总商会上海商会会长。1977年至1982年桐庐潘畈小学读书，1982年至1988年桐庐歌舞中学，1993年至今上海盛彤实业有限公司董事长。2014年9月5日被评选为首届杰出桐商。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '99.82亿元（2016年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '申通快递',
+ 'company_chairMan': '陈德军',
+ 'company_description': '申通快递简称上海申通，上海申通物流公司拥有247个独立城市营业所，179个营业厅，1220个操作点，快递初创于1993年，是一家以经营快递为主的国内合资（民营）企业。申通快递基本覆盖到全国地市级以上城市和发达地区地市县级以上城市，尤其是在江浙沪地区，基本实现了派送无盲区。2014年2月申通开始内测海淘转运业务。2015年9月16日申通、天天快递宣布重大战略重组。12月14日，申通快递借壳上市了！',
+ 'company_enName': 'STO.Express',
+ 'company_headQuarterPlace': '上海市',
+ 'company_incorporationTime': '1993年',
+ 'company_slogan': '对客户满意的承诺，是申通坚定的信仰',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '199.82亿元（2017年）',
+ 'company_businessScope': '速递、物流、电子商务',
+ 'company_chName': '圆通速递',
+ 'company_chairMan': '喻渭蛟',
+ 'company_description': '上海圆通速递有限公司有各类运输车辆千余辆，员工3万余名，服务覆盖全国500多个城市。成立于2000年5月28日。经过18年的精心打造，现已成为集速递、物流、电子商务为一体的大型民营企业。公司总部位于上海市青浦区华新镇。数年来，公司业务迅速发展，网络覆盖中国各个城市。',
+ 'company_enName': 'YTO EXPRESS',
+ 'company_headQuarterPlace': '上海青浦区华新镇',
+ 'company_incorporationTime': '2000年5月28日',
+ 'company_slogan': '寄快递，找圆通',
+ 'company_type': '民营企业'}
+
+{'person_achiem': '《2015胡润女富豪榜》第14名',
+ 'person_birthDay': '1969年10月',
+ 'person_birthPlace': '',
+ 'person_chName': '张小娟',
+ 'person_description': '张小娟，女，1969年10月出生，无境外永久居留权，高中学历。圆通速递法定代表人喻会蛟妻子，2002年12月至2015年4月担任圆通速递有限公司监事，目前担任圆通速递有限公司董事，杭州市第十二届人民代表大会代表，圆通蛟龙集团董事副总裁。',
+ 'person_nation': '',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '199.82亿元（2017年）',
+ 'company_businessScope': '速递、物流、电子商务',
+ 'company_chName': '圆通速递',
+ 'company_chairMan': '喻渭蛟',
+ 'company_description': '上海圆通速递有限公司有各类运输车辆千余辆，员工3万余名，服务覆盖全国500多个城市。成立于2000年5月28日。经过18年的精心打造，现已成为集速递、物流、电子商务为一体的大型民营企业。公司总部位于上海市青浦区华新镇。数年来，公司业务迅速发展，网络覆盖中国各个城市。',
+ 'company_enName': 'YTO EXPRESS',
+ 'company_headQuarterPlace': '上海青浦区华新镇',
+ 'company_incorporationTime': '2000年5月28日',
+ 'company_slogan': '寄快递，找圆通',
+ 'company_type': '民营企业'}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递服务',
+ 'company_chName': '天天快递',
+ 'company_chairMan': '奚春阳',
+ 'company_description': '天天快递初创于1994年，总部现设在南京，现有员工100000余人，网点10000多个，自成立以来，天天快递不断满足市场需求，建立了庞大的市场采集、市场开发、物流配送、快件收派等业务机构及服务网络。经过近二十年的发展，2012年由现任董事长奚春阳先生收购重组，开启了”天天新时代”。目前，天天快递服务客户30万余家，其中世界500强客户100多家，客户群体遍及电子商务、纺织服装、医药化工、高科技IT产业、货代企业、进出口贸易、制造业等多个领域。2015年9月16日申通、天天快递宣布重大战略重组。2017年1月3日，天天快递被苏宁云商全资收购。2017年微博行业消费者态度榜出炉：天天快递负面评价达77.73%。2017年10月28日，天天快递总部从杭州整体搬迁至南京苏宁总部园区，天天快递全体员工正式加入苏宁总部园区办公。',
+ 'company_enName': 'TTK Express',
+ 'company_headQuarterPlace': '南京',
+ 'company_incorporationTime': '1994年',
+ 'company_slogan': '天天快递，天天相伴',
+ 'company_type': ''}
+
+{'company_annualTurnover': '99.82亿元（2016年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '申通快递',
+ 'company_chairMan': '陈德军',
+ 'company_description': '申通快递简称上海申通，上海申通物流公司拥有247个独立城市营业所，179个营业厅，1220个操作点，快递初创于1993年，是一家以经营快递为主的国内合资（民营）企业。申通快递基本覆盖到全国地市级以上城市和发达地区地市县级以上城市，尤其是在江浙沪地区，基本实现了派送无盲区。2014年2月申通开始内测海淘转运业务。2015年9月16日申通、天天快递宣布重大战略重组。12月14日，申通快递借壳上市了！',
+ 'company_enName': 'STO.Express',
+ 'company_headQuarterPlace': '上海市',
+ 'company_incorporationTime': '1993年',
+ 'company_slogan': '对客户满意的承诺，是申通坚定的信仰',
+ 'company_type': '民营'}
+
+{'person_achiem': '“中国物流诚信企业家”',
+ 'person_birthDay': '1966年4月',
+ 'person_birthPlace': '浙江桐庐',
+ 'person_chName': '喻渭蛟',
+ 'person_description': '喻渭蛟，浙江桐庐人，中共党员，现任上海圆通蛟龙投资发展（集团）有限公司、圆通速递有限公司董事长、总裁、党委书记。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'person_achiem': '“中国物流诚信企业家”',
+ 'person_birthDay': '1966年4月',
+ 'person_birthPlace': '浙江桐庐',
+ 'person_chName': '喻渭蛟',
+ 'person_description': '喻渭蛟，浙江桐庐人，中共党员，现任上海圆通蛟龙投资发展（集团）有限公司、圆通速递有限公司董事长、总裁、党委书记。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '199.82亿元（2017年）',
+ 'company_businessScope': '速递、物流、电子商务',
+ 'company_chName': '圆通速递',
+ 'company_chairMan': '喻渭蛟',
+ 'company_description': '上海圆通速递有限公司有各类运输车辆千余辆，员工3万余名，服务覆盖全国500多个城市。成立于2000年5月28日。经过18年的精心打造，现已成为集速递、物流、电子商务为一体的大型民营企业。公司总部位于上海市青浦区华新镇。数年来，公司业务迅速发展，网络覆盖中国各个城市。',
+ 'company_enName': 'YTO EXPRESS',
+ 'company_headQuarterPlace': '上海青浦区华新镇',
+ 'company_incorporationTime': '2000年5月28日',
+ 'company_slogan': '寄快递，找圆通',
+ 'company_type': '民营企业'}
+
+{'company_annualTurnover': '909.43亿元（2018年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '顺丰控股（集团）股份有限公司',
+ 'company_chairMan': '',
+ 'company_description': '顺丰速运是一家主要经营国际、国内快递业务的国内快递企业，于1993年3月26日在广东顺德成立。国家邮政局发布2018年快递服务用户满意度、时限准时率调查结果。2018年快递服务总体满意度得分为75.9分，较2017年上升0.2分。快递企业总体满意度排名顺丰速运居首，在时限准时率方面，顺丰速运排名第一。2016年5月23日，顺丰股权置换欲借壳上市，资产作价433亿元。2017年2月24日，顺丰控股在深交所举行重组更名暨上市仪式，正式登陆A股。2017年6月1日凌晨，顺丰宣布关闭对菜鸟的数据接口。2017年从6月3日中午12时起，全面恢复业务合作和数据传输。2017年11月20日，三架波音747飞机在深圳中院的指导下在阿里巴巴旗下拍卖平台正式开拍，顺丰航空有限公司分别以1.607808亿元和1.620386亿元拍下其中两架飞机，总共耗资3.2亿余元。2017年12月20日，湖北国际物流核心枢纽项目在湖北鄂州开工建设，将为打造全球第四个、亚洲第一的航空物流枢纽奠定坚实基础。',
+ 'company_enName': 'SF Express',
+ 'company_headQuarterPlace': '广东省深圳市福田区福华路万基商务大厦9-11、14-20楼',
+ 'company_incorporationTime': '1993年3月26日',
+ 'company_slogan': '成就客户，推动经济，发展民族速递业',
+ 'company_type': '（集团）有限公司'}
+
+{'company_annualTurnover': '100亿以上',
+ 'company_businessScope': '快递、快运、整车、仓储与供应链业务',
+ 'company_chName': '德邦快递',
+ 'company_chairMan': '崔维星',
+ 'company_description': '德邦快递创建于1996年，总部位于上海市青浦区。德邦快递致力成为以客户为中心，以大件快递为核心业务，业务涉及快运、整车、仓储与供应链等多元业务的综合性快递、物流供应商，为跨行业的客户提供综合性的快递、物流选择，公司先后获得“守合同重信用企业”、“十佳电子商务服务商”、“中国物流杰出企业”等荣誉。2018年1月16日，公司在上海证券交易所正式登陆A股市场上市，股票代码为“603056”；同年7月，德邦快递上榜财富中文网发布的2018年《财富》中国500强企业。',
+ 'company_enName': 'deppon',
+ 'company_headQuarterPlace': '上海青浦区徐泾镇',
+ 'company_incorporationTime': '1996年9月',
+ 'company_slogan': '专注你的托付',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '199.82亿元（2017年）',
+ 'company_businessScope': '速递、物流、电子商务',
+ 'company_chName': '圆通速递',
+ 'company_chairMan': '喻渭蛟',
+ 'company_description': '上海圆通速递有限公司有各类运输车辆千余辆，员工3万余名，服务覆盖全国500多个城市。成立于2000年5月28日。经过18年的精心打造，现已成为集速递、物流、电子商务为一体的大型民营企业。公司总部位于上海市青浦区华新镇。数年来，公司业务迅速发展，网络覆盖中国各个城市。',
+ 'company_enName': 'YTO EXPRESS',
+ 'company_headQuarterPlace': '上海青浦区华新镇',
+ 'company_incorporationTime': '2000年5月28日',
+ 'company_slogan': '寄快递，找圆通',
+ 'company_type': '民营企业'}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递',
+ 'company_chName': '敦豪',
+ 'company_chairMan': '',
+ 'company_description': 'dhl国际快递是全球知名的邮递和物流集团 Deutsche Post '
+                        'DHL旗下公司。DHL的业务遍布全球220个国家和地区，是全球国际化程度最高的公司。',
+ 'company_enName': 'DHL',
+ 'company_headQuarterPlace': '德国波恩',
+ 'company_incorporationTime': '1969年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '583.63亿美元（2015年）',
+ 'company_businessScope': '包裹快递',
+ 'company_chName': 'UPS快递',
+ 'company_chairMan': '',
+ 'company_description': 'UPS快递 (United Parcel Service)在1907 '
+                        '年作为一家信使公司成立于美国华盛顿州西雅图，是一家全球性的公司，其商标是世界上知名商标之一。作为世界上最大的快递承运商与包裹递送公司，同时也是运输、物流、资本与电子商务服务的领导性的提供者。UPS（联合包裹速递服务公司）是世界上最大的快递承运商与包裹递送公司，同时也是专业的运输、物流、资本与电子商务服务的领导性的提供者。UPS每天都在世界上200多个国家和地域管理着物流、资金流与信息流。通过结合货物流、信息流和资金流，UPS不断开发供应链管理、物流和电子商务的新领域，如今UPS已发展到拥有300亿美元资产的大公司。2017年6月7日，2017年《财富》美国500强排行榜发布，UPS快递排名第46位。2017年6月，《2017年BrandZ最具价值全球品牌100强》公布，UPS快递排名第16位。2018年7月19日，《财富》世界500强排行榜发布，UPS快递位列138位。2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，UPS快递排名第50位。',
+ 'company_enName': 'UPS Express',
+ 'company_headQuarterPlace': '美国华盛顿州西雅图市',
+ 'company_incorporationTime': '1907年8月28日',
+ 'company_slogan': '我们为您传递更多',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '企业货运、快递、物流服务',
+ 'company_chName': '跨越速运集团有限公司',
+ 'company_chairMan': '',
+ 'company_description': '跨越速运集团有限公司（以下简称跨越速运）专业从事航空货运，主营“国内限时”快递的大型现代化物流企业。',
+ 'company_enName': 'KYE',
+ 'company_headQuarterPlace': '深圳',
+ 'company_incorporationTime': '2007年8月',
+ 'company_slogan': '创快递先锋 建百年跨越',
+ 'company_type': ''}
+
+{'company_annualTurnover': '73亿欧元',
+ 'company_businessScope': '包裹等快递服务',
+ 'company_chName': 'TNT快递',
+ 'company_chairMan': '',
+ 'company_description': 'TNT快递为企业和个人提供快递和邮政服务。总部位于荷兰的TNT集团，在欧洲和亚洲可提供高效的递送网络，且通过在全球范围内扩大运营分布来优化网络域名注册查询效能。提供世界范围内的包裹、文件以及货运项目的安全准时运送服务。',
+ 'company_enName': 'TNT Express',
+ 'company_headQuarterPlace': '荷兰',
+ 'company_incorporationTime': '',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '国内速递、国际速递、合同物流',
+ 'company_chName': '中国邮政速递物流股份有限公司',
+ 'company_chairMan': '',
+ 'company_description': '中国邮政速递物流股份有限公司（简称中国邮政速递物流Express Mail '
+                        'Service）。经国务院批准，于2010年6月由中国邮政集团联合各省邮政公司共同发起设立的国有股份制公司。EMS分为航空和陆运两种，邮递方式多样，方便快捷。业务首重规定为20元。2012年9月，邮政EMS部分城市电商件8元起，收费调低。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京市西城区宣武门西大街127号太平湖东里14号',
+ 'company_incorporationTime': '2010年6月',
+ 'company_slogan': '珍惜每一刻，用心每一步',
+ 'company_type': ''}
+
+{'company_annualTurnover': '99.82亿元（2016年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '申通快递',
+ 'company_chairMan': '陈德军',
+ 'company_description': '申通快递简称上海申通，上海申通物流公司拥有247个独立城市营业所，179个营业厅，1220个操作点，快递初创于1993年，是一家以经营快递为主的国内合资（民营）企业。申通快递基本覆盖到全国地市级以上城市和发达地区地市县级以上城市，尤其是在江浙沪地区，基本实现了派送无盲区。2014年2月申通开始内测海淘转运业务。2015年9月16日申通、天天快递宣布重大战略重组。12月14日，申通快递借壳上市了！',
+ 'company_enName': 'STO.Express',
+ 'company_headQuarterPlace': '上海市',
+ 'company_incorporationTime': '1993年',
+ 'company_slogan': '对客户满意的承诺，是申通坚定的信仰',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '20亿',
+ 'company_businessScope': '物流公司',
+ 'company_chName': '宅急送',
+ 'company_chairMan': '',
+ 'company_description': '宅急送是一家物流公司，创建于1994年1月18日，宅急送经过二十几年的快速发展，宅急送已有员工逾2万人，车辆2000余台。全国共有30个分公司，7个航空基地，247个独立城市营业所，40个市内营业所，179个营业厅，1220个操作点，705个外网，共计网络机构2440个，网络已覆盖全国地级以上城市。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京',
+ 'company_incorporationTime': '1994年1月18日',
+ 'company_slogan': '安全、准确、亲切、视服务为生命',
+ 'company_type': ''}
+
+{'company_annualTurnover': '909.43亿元（2018年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '顺丰控股（集团）股份有限公司',
+ 'company_chairMan': '',
+ 'company_description': '顺丰速运是一家主要经营国际、国内快递业务的国内快递企业，于1993年3月26日在广东顺德成立。国家邮政局发布2018年快递服务用户满意度、时限准时率调查结果。2018年快递服务总体满意度得分为75.9分，较2017年上升0.2分。快递企业总体满意度排名顺丰速运居首，在时限准时率方面，顺丰速运排名第一。2016年5月23日，顺丰股权置换欲借壳上市，资产作价433亿元。2017年2月24日，顺丰控股在深交所举行重组更名暨上市仪式，正式登陆A股。2017年6月1日凌晨，顺丰宣布关闭对菜鸟的数据接口。2017年从6月3日中午12时起，全面恢复业务合作和数据传输。2017年11月20日，三架波音747飞机在深圳中院的指导下在阿里巴巴旗下拍卖平台正式开拍，顺丰航空有限公司分别以1.607808亿元和1.620386亿元拍下其中两架飞机，总共耗资3.2亿余元。2017年12月20日，湖北国际物流核心枢纽项目在湖北鄂州开工建设，将为打造全球第四个、亚洲第一的航空物流枢纽奠定坚实基础。',
+ 'company_enName': 'SF Express',
+ 'company_headQuarterPlace': '广东省深圳市福田区福华路万基商务大厦9-11、14-20楼',
+ 'company_incorporationTime': '1993年3月26日',
+ 'company_slogan': '成就客户，推动经济，发展民族速递业',
+ 'company_type': '（集团）有限公司'}
+
+{'person_achiem': '经营最大的民营快递公司',
+ 'person_birthDay': '1970年',
+ 'person_birthPlace': '浙江桐庐',
+ 'person_chName': '陈德军',
+ 'person_description': '陈德军，申通快递有限公司董事长、上海盛彤实业有限公司董事长、上海快递协会会长、桐庐县总商会上海商会会长。1977年至1982年桐庐潘畈小学读书，1982年至1988年桐庐歌舞中学，1993年至今上海盛彤实业有限公司董事长。2014年9月5日被评选为首届杰出桐商。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '474.53亿美元（2015年）',
+ 'company_businessScope': '快递物流',
+ 'company_chName': '联邦快递',
+ 'company_chairMan': '',
+ 'company_description': '联邦快递（ '
+                        'FedEx）是一家国际性速递集团，提供隔夜快递、地面快递、重型货物运送、文件复印及物流服务，总部设于美国田纳西州，隶属于美国联邦快递集团（FedEx '
+                        'Corp）。2014年12月16日上，美国联邦快递公司同意收购逆向物流公司Genco。这表示联邦快递在向电子商务领域大举进军。2017年6月6日，《2017年BrandZ最具价值全球品牌100强》公布，联邦快递名列第51位。6月7日发布的2017年《财富》美国500强排行榜中，排名第58 '
+                        '。2018年7月19日，《财富》世界500强排行榜发布，联邦快递位列155位。2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，联邦快递排名第52位。',
+ 'company_enName': 'FedEx Express',
+ 'company_headQuarterPlace': '美国田纳西州孟菲斯',
+ 'company_incorporationTime': '1971年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递服务',
+ 'company_chName': '天天快递',
+ 'company_chairMan': '奚春阳',
+ 'company_description': '天天快递初创于1994年，总部现设在南京，现有员工100000余人，网点10000多个，自成立以来，天天快递不断满足市场需求，建立了庞大的市场采集、市场开发、物流配送、快件收派等业务机构及服务网络。经过近二十年的发展，2012年由现任董事长奚春阳先生收购重组，开启了”天天新时代”。目前，天天快递服务客户30万余家，其中世界500强客户100多家，客户群体遍及电子商务、纺织服装、医药化工、高科技IT产业、货代企业、进出口贸易、制造业等多个领域。2015年9月16日申通、天天快递宣布重大战略重组。2017年1月3日，天天快递被苏宁云商全资收购。2017年微博行业消费者态度榜出炉：天天快递负面评价达77.73%。2017年10月28日，天天快递总部从杭州整体搬迁至南京苏宁总部园区，天天快递全体员工正式加入苏宁总部园区办公。',
+ 'company_enName': 'TTK Express',
+ 'company_headQuarterPlace': '南京',
+ 'company_incorporationTime': '1994年',
+ 'company_slogan': '天天快递，天天相伴',
+ 'company_type': ''}
+
+{'company_annualTurnover': '99.82亿元（2016年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '申通快递',
+ 'company_chairMan': '陈德军',
+ 'company_description': '申通快递简称上海申通，上海申通物流公司拥有247个独立城市营业所，179个营业厅，1220个操作点，快递初创于1993年，是一家以经营快递为主的国内合资（民营）企业。申通快递基本覆盖到全国地市级以上城市和发达地区地市县级以上城市，尤其是在江浙沪地区，基本实现了派送无盲区。2014年2月申通开始内测海淘转运业务。2015年9月16日申通、天天快递宣布重大战略重组。12月14日，申通快递借壳上市了！',
+ 'company_enName': 'STO.Express',
+ 'company_headQuarterPlace': '上海市',
+ 'company_incorporationTime': '1993年',
+ 'company_slogan': '对客户满意的承诺，是申通坚定的信仰',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递，邮政服务',
+ 'company_chName': 'TNT 集团',
+ 'company_chairMan': '',
+ 'company_description': 'TNT快递为企业和个人提供快递和邮政服务。总部位于荷兰的TNT集团，在欧洲和亚洲可提供高效的递送网络，且通过在全球范围内扩大运营分布来优化网络域名注册查询效能。TNT快递提供世界范围内的包裹、文件以及货运项目的安全准时运送服务。2018年12月，世界品牌实验室编制的《2018世界品牌500强》揭晓，TNT公司排名第114。',
+ 'company_enName': 'TNT Company',
+ 'company_headQuarterPlace': '荷兰',
+ 'company_incorporationTime': '1946',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '物流',
+ 'company_chName': '国通快递',
+ 'company_chairMan': '',
+ 'company_description': '国通快递总部设立在上海，是一家网络覆盖全国的品牌快递公司。多年来荣获“中国快递行业十大影响力品牌”、“中国快递市场客户满意十佳品牌”等荣誉称号，拥有先进的全球POD追踪查询系统，使用先进的专业自动化软件系统进行全面管理，在业界享有盛誉。公司在此基础上投入巨资先后在华东、华南、华北等地扩建直属上海总部的快递分拨中心，并扩大公司直营范围，已经直营的省份有广东、海南、福建、江苏、浙江、上海、安徽、山东、湖北、北京、河北等重点省份。公司全网从业人员约50000人，全国各地设有分拨中心40多家。干线班车运营线路500多条，全网运营车辆数万辆。公司服务项目有国际快递、国内快递、物流配送和仓储等，提供国内当日达、次晨达、次日达、隔日达等服务。同时，开展了运费到付、电子商务配送、签单返回等增值业务。客户群体遍及电子商务、制造业、高科技IT产业、零售业等多个领域。国通快递拥有先进的管理团队和大量的优秀人才储备。为了更好地服务客户，创国内快递一流品牌，在红楼集团的支持下，公司投入巨资先后在华东、华南、华北等区域购地扩建直属上海总部的快递分拨中心，重点地区配备有自动流水线操作设备。国通快递始终秉承着“为民服务，和谐万家”的最高服务理念，不断改革创新，持续推进网络和系统建设，竭诚为客户提供最优质的快递服务。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '上海',
+ 'company_incorporationTime': '2003年12月8日',
+ 'company_slogan': '为民服务、和谐万家',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '国际、国内快递及相关业务',
+ 'company_chName': '全峰快递',
+ 'company_chairMan': '陈加海',
+ 'company_description': '全峰快递集团于2010年11月18日成立于北京，2011年7月16日开始正式运营。是一家主要经营国际、国内快递及相关业务的服务型企业。全峰自成立以来，一直致力成为“行业发展的时代先锋” '
+                        ',并以整合国内快递资源打造民族快递新品牌，塑造承载快递文化为奋斗目标。全峰集团通过多年探索沉淀，取精用宏、扬长避短，总结了以往民营快递企业的利弊，以全新的理念和发展思路，秉承“高目标、高起点、高标准”原则，立足华北、华东、华南和外围四大服务区域，斥巨资打造面向全国发展的快递品牌。全峰集团经过两年的缜密布局，现已发展成为拥有65个大中型转运中心、5000余家营业门店、10000辆营运车辆、员工50000人的企业。',
+ 'company_enName': 'Quanfeng express',
+ 'company_headQuarterPlace': '上海',
+ 'company_incorporationTime': '2010年11月18日',
+ 'company_slogan': '成为中国快递综合解决方案领跑者',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '',
+ 'company_chName': '大亿快递',
+ 'company_chairMan': '',
+ 'company_description': '2002年因业务的需要成立了大陆公司（深圳市大亿通运速递有限公司），之后迅速成立了上海分公司，东莞分公司，重庆等地的分公司。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '深圳市',
+ 'company_incorporationTime': '1990年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '',
+ 'company_chName': '北京如风达快递有限公司',
+ 'company_chairMan': '',
+ 'company_description': '如风达快递又称北京如风达快递有限公司成立于2008年4月15日，原属凡客诚品（Vancl）旗下全资自建的配送公司，专业经营最后一公里（门到门）B2C配送业务。基于对B2C市场的理解和B2C配送的长期研究、不断实践，在以客户满意为最高标准的前提下，完善了拥有独特自我风格的业务流程。2014年6月30日，如风达宣布被中信基金全资控股的公路快运企业天地华宇集团收购，将作为天地华宇旗下的快递品牌独立运营。北京如风达快递有限公司专注于经营最后一公里（门到门)COD配送业务和快递业务。如风达秉承“服务有起点，满意无终点”的服务理念，以信息平台为支撑，采用APP客户端、微信、微博等高科技手段提高客户体验，力求做到以客户体验为中心，微笑服务为准则，高科技"重型武装"的物流配送公司。如风达快递可到达31个省及省级直辖市，共计340个地级市及省级直辖区域，覆盖2054个市区及县级市。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京',
+ 'company_incorporationTime': '2008年4月15日',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递业务',
+ 'company_chName': '优速物流',
+ 'company_chairMan': '',
+ 'company_description': '优速物流有限公司创立于2009年，总部位于上海青浦，是一家提供全国性快递服务的规模型快递企业。聚焦“大包裹”，优速坚持走差异化发展道路。目前，优速已经在全国建立分拨中心93个，拥有营业网点超过6000家，员工70000余人，运输车辆20000余台。2018年，优速提出“全·新·优速+”发展战略，以科技助力发展，致力于成为性价比优的大包裹快递公司。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '上海青浦区',
+ 'company_incorporationTime': '2009年',
+ 'company_slogan': '大包裹用优速',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '百世快递',
+ 'company_chairMan': '周韶宁',
+ 'company_description': '“百世快运”成立于2003年，是一家在国内率先运用信息化手段探索快递行业转型升级之路的大型民营快递公司，对快递的派送流程实行条码扫描和运单核对的方式，为用户提供精准的速递服务。2010年11月，杭州百世网络技术有限公司成功收购“汇通快运”，随后更名为“百世汇通”，成为百世网络旗下的知名快递品牌。“百世汇通”将会把“承载寄托，全程呵护”作为服务理念，秉承“投资于人，投资于技术”的企业文化，与行业精英共同为中国快递事业的飞速发展贡献力。2016年，“百世汇通”更名，正式以新名称“百世快递”面世。',
+ 'company_enName': 'BEST EXPRESS',
+ 'company_headQuarterPlace': '浙江省杭州市',
+ 'company_incorporationTime': '2003年',
+ 'company_slogan': '承载寄托、全程呵护',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '100亿以上',
+ 'company_businessScope': '快递、快运、整车、仓储与供应链业务',
+ 'company_chName': '德邦快递',
+ 'company_chairMan': '崔维星',
+ 'company_description': '德邦快递创建于1996年，总部位于上海市青浦区。德邦快递致力成为以客户为中心，以大件快递为核心业务，业务涉及快运、整车、仓储与供应链等多元业务的综合性快递、物流供应商，为跨行业的客户提供综合性的快递、物流选择，公司先后获得“守合同重信用企业”、“十佳电子商务服务商”、“中国物流杰出企业”等荣誉。2018年1月16日，公司在上海证券交易所正式登陆A股市场上市，股票代码为“603056”；同年7月，德邦快递上榜财富中文网发布的2018年《财富》中国500强企业。',
+ 'company_enName': 'deppon',
+ 'company_headQuarterPlace': '上海青浦区徐泾镇',
+ 'company_incorporationTime': '1996年9月',
+ 'company_slogan': '专注你的托付',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '199.82亿元（2017年）',
+ 'company_businessScope': '速递、物流、电子商务',
+ 'company_chName': '圆通速递',
+ 'company_chairMan': '喻渭蛟',
+ 'company_description': '上海圆通速递有限公司有各类运输车辆千余辆，员工3万余名，服务覆盖全国500多个城市。成立于2000年5月28日。经过18年的精心打造，现已成为集速递、物流、电子商务为一体的大型民营企业。公司总部位于上海市青浦区华新镇。数年来，公司业务迅速发展，网络覆盖中国各个城市。',
+ 'company_enName': 'YTO EXPRESS',
+ 'company_headQuarterPlace': '上海青浦区华新镇',
+ 'company_incorporationTime': '2000年5月28日',
+ 'company_slogan': '寄快递，找圆通',
+ 'company_type': '民营企业'}
+
+{'company_annualTurnover': '583.63亿美元（2015年）',
+ 'company_businessScope': '包裹快递',
+ 'company_chName': 'UPS快递',
+ 'company_chairMan': '',
+ 'company_description': 'UPS快递 (United Parcel Service)在1907 '
+                        '年作为一家信使公司成立于美国华盛顿州西雅图，是一家全球性的公司，其商标是世界上知名商标之一。作为世界上最大的快递承运商与包裹递送公司，同时也是运输、物流、资本与电子商务服务的领导性的提供者。UPS（联合包裹速递服务公司）是世界上最大的快递承运商与包裹递送公司，同时也是专业的运输、物流、资本与电子商务服务的领导性的提供者。UPS每天都在世界上200多个国家和地域管理着物流、资金流与信息流。通过结合货物流、信息流和资金流，UPS不断开发供应链管理、物流和电子商务的新领域，如今UPS已发展到拥有300亿美元资产的大公司。2017年6月7日，2017年《财富》美国500强排行榜发布，UPS快递排名第46位。2017年6月，《2017年BrandZ最具价值全球品牌100强》公布，UPS快递排名第16位。2018年7月19日，《财富》世界500强排行榜发布，UPS快递位列138位。2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，UPS快递排名第50位。',
+ 'company_enName': 'UPS Express',
+ 'company_headQuarterPlace': '美国华盛顿州西雅图市',
+ 'company_incorporationTime': '1907年8月28日',
+ 'company_slogan': '我们为您传递更多',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快递',
+ 'company_chName': '敦豪',
+ 'company_chairMan': '',
+ 'company_description': 'dhl国际快递是全球知名的邮递和物流集团 Deutsche Post '
+                        'DHL旗下公司。DHL的业务遍布全球220个国家和地区，是全球国际化程度最高的公司。',
+ 'company_enName': 'DHL',
+ 'company_headQuarterPlace': '德国波恩',
+ 'company_incorporationTime': '1969年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'person_achiem': '快递行业领军人物',
+ 'person_birthDay': '1970年',
+ 'person_birthPlace': '浙江',
+ 'person_chName': '奚春阳',
+ 'person_description': '奚春阳，为浙江申通快递服务有限公司创始人之一，曾任申通快递副董事长兼总裁，2012年8月，担任天天快递董事长。杭州市人大代表。2015年9月，申通、天天快递宣布战略合作，奚春阳出任申通、天天战略合作小组组长。2016年10月，成立大蜂控股有限公司，担任董事长。',
+ 'person_nation': '汉族',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '909.43亿元（2018年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '顺丰控股（集团）股份有限公司',
+ 'company_chairMan': '',
+ 'company_description': '顺丰速运是一家主要经营国际、国内快递业务的国内快递企业，于1993年3月26日在广东顺德成立。国家邮政局发布2018年快递服务用户满意度、时限准时率调查结果。2018年快递服务总体满意度得分为75.9分，较2017年上升0.2分。快递企业总体满意度排名顺丰速运居首，在时限准时率方面，顺丰速运排名第一。2016年5月23日，顺丰股权置换欲借壳上市，资产作价433亿元。2017年2月24日，顺丰控股在深交所举行重组更名暨上市仪式，正式登陆A股。2017年6月1日凌晨，顺丰宣布关闭对菜鸟的数据接口。2017年从6月3日中午12时起，全面恢复业务合作和数据传输。2017年11月20日，三架波音747飞机在深圳中院的指导下在阿里巴巴旗下拍卖平台正式开拍，顺丰航空有限公司分别以1.607808亿元和1.620386亿元拍下其中两架飞机，总共耗资3.2亿余元。2017年12月20日，湖北国际物流核心枢纽项目在湖北鄂州开工建设，将为打造全球第四个、亚洲第一的航空物流枢纽奠定坚实基础。',
+ 'company_enName': 'SF Express',
+ 'company_headQuarterPlace': '广东省深圳市福田区福华路万基商务大厦9-11、14-20楼',
+ 'company_incorporationTime': '1993年3月26日',
+ 'company_slogan': '成就客户，推动经济，发展民族速递业',
+ 'company_type': '（集团）有限公司'}
+
+{'company_annualTurnover': '99.82亿元（2016年）',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '申通快递',
+ 'company_chairMan': '陈德军',
+ 'company_description': '申通快递简称上海申通，上海申通物流公司拥有247个独立城市营业所，179个营业厅，1220个操作点，快递初创于1993年，是一家以经营快递为主的国内合资（民营）企业。申通快递基本覆盖到全国地市级以上城市和发达地区地市县级以上城市，尤其是在江浙沪地区，基本实现了派送无盲区。2014年2月申通开始内测海淘转运业务。2015年9月16日申通、天天快递宣布重大战略重组。12月14日，申通快递借壳上市了！',
+ 'company_enName': 'STO.Express',
+ 'company_headQuarterPlace': '上海市',
+ 'company_incorporationTime': '1993年',
+ 'company_slogan': '对客户满意的承诺，是申通坚定的信仰',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '企业货运、快递、物流服务',
+ 'company_chName': '跨越速运集团有限公司',
+ 'company_chairMan': '',
+ 'company_description': '跨越速运集团有限公司（以下简称跨越速运）专业从事航空货运，主营“国内限时”快递的大型现代化物流企业。',
+ 'company_enName': 'KYE',
+ 'company_headQuarterPlace': '深圳',
+ 'company_incorporationTime': '2007年8月',
+ 'company_slogan': '创快递先锋 建百年跨越',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '国际、国内快递运输服务',
+ 'company_chName': '百世快递',
+ 'company_chairMan': '周韶宁',
+ 'company_description': '“百世快运”成立于2003年，是一家在国内率先运用信息化手段探索快递行业转型升级之路的大型民营快递公司，对快递的派送流程实行条码扫描和运单核对的方式，为用户提供精准的速递服务。2010年11月，杭州百世网络技术有限公司成功收购“汇通快运”，随后更名为“百世汇通”，成为百世网络旗下的知名快递品牌。“百世汇通”将会把“承载寄托，全程呵护”作为服务理念，秉承“投资于人，投资于技术”的企业文化，与行业精英共同为中国快递事业的飞速发展贡献力。2016年，“百世汇通”更名，正式以新名称“百世快递”面世。',
+ 'company_enName': 'BEST EXPRESS',
+ 'company_headQuarterPlace': '浙江省杭州市',
+ 'company_incorporationTime': '2003年',
+ 'company_slogan': '承载寄托、全程呵护',
+ 'company_type': '民营'}
+
+{'company_annualTurnover': '20亿',
+ 'company_businessScope': '物流公司',
+ 'company_chName': '宅急送',
+ 'company_chairMan': '',
+ 'company_description': '宅急送是一家物流公司，创建于1994年1月18日，宅急送经过二十几年的快速发展，宅急送已有员工逾2万人，车辆2000余台。全国共有30个分公司，7个航空基地，247个独立城市营业所，40个市内营业所，179个营业厅，1220个操作点，705个外网，共计网络机构2440个，网络已覆盖全国地级以上城市。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京',
+ 'company_incorporationTime': '1994年1月18日',
+ 'company_slogan': '安全、准确、亲切、视服务为生命',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '物流',
+ 'company_chName': '国通快递',
+ 'company_chairMan': '',
+ 'company_description': '国通快递总部设立在上海，是一家网络覆盖全国的品牌快递公司。多年来荣获“中国快递行业十大影响力品牌”、“中国快递市场客户满意十佳品牌”等荣誉称号，拥有先进的全球POD追踪查询系统，使用先进的专业自动化软件系统进行全面管理，在业界享有盛誉。公司在此基础上投入巨资先后在华东、华南、华北等地扩建直属上海总部的快递分拨中心，并扩大公司直营范围，已经直营的省份有广东、海南、福建、江苏、浙江、上海、安徽、山东、湖北、北京、河北等重点省份。公司全网从业人员约50000人，全国各地设有分拨中心40多家。干线班车运营线路500多条，全网运营车辆数万辆。公司服务项目有国际快递、国内快递、物流配送和仓储等，提供国内当日达、次晨达、次日达、隔日达等服务。同时，开展了运费到付、电子商务配送、签单返回等增值业务。客户群体遍及电子商务、制造业、高科技IT产业、零售业等多个领域。国通快递拥有先进的管理团队和大量的优秀人才储备。为了更好地服务客户，创国内快递一流品牌，在红楼集团的支持下，公司投入巨资先后在华东、华南、华北等区域购地扩建直属上海总部的快递分拨中心，重点地区配备有自动流水线操作设备。国通快递始终秉承着“为民服务，和谐万家”的最高服务理念，不断改革创新，持续推进网络和系统建设，竭诚为客户提供最优质的快递服务。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '上海',
+ 'company_incorporationTime': '2003年12月8日',
+ 'company_slogan': '为民服务、和谐万家',
+ 'company_type': ''}
+
+{'company_annualTurnover': '583.63亿美元（2015年）',
+ 'company_businessScope': '包裹快递',
+ 'company_chName': 'UPS快递',
+ 'company_chairMan': '',
+ 'company_description': 'UPS快递 (United Parcel Service)在1907 '
+                        '年作为一家信使公司成立于美国华盛顿州西雅图，是一家全球性的公司，其商标是世界上知名商标之一。作为世界上最大的快递承运商与包裹递送公司，同时也是运输、物流、资本与电子商务服务的领导性的提供者。UPS（联合包裹速递服务公司）是世界上最大的快递承运商与包裹递送公司，同时也是专业的运输、物流、资本与电子商务服务的领导性的提供者。UPS每天都在世界上200多个国家和地域管理着物流、资金流与信息流。通过结合货物流、信息流和资金流，UPS不断开发供应链管理、物流和电子商务的新领域，如今UPS已发展到拥有300亿美元资产的大公司。2017年6月7日，2017年《财富》美国500强排行榜发布，UPS快递排名第46位。2017年6月，《2017年BrandZ最具价值全球品牌100强》公布，UPS快递排名第16位。2018年7月19日，《财富》世界500强排行榜发布，UPS快递位列138位。2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，UPS快递排名第50位。',
+ 'company_enName': 'UPS Express',
+ 'company_headQuarterPlace': '美国华盛顿州西雅图市',
+ 'company_incorporationTime': '1907年8月28日',
+ 'company_slogan': '我们为您传递更多',
+ 'company_type': ''}
+
+{'person_achiem': '',
+ 'person_birthDay': '1970年10月',
+ 'person_birthPlace': '上海',
+ 'person_chName': '王卫',
+ 'person_description': '王卫（Dick），男，汉族，1970年10月生于上海，后移居香港，作为顺丰的总掌舵人，和他所带领的企业一样，充满了传奇色彩。2011年4月底，王卫18年来首次接受媒体采访。2016年10月27日，2016福布斯中国富豪榜公布，王卫以185亿美元财富排名第四位。2017年10月12日，2017胡润富豪排行榜公布，王卫以1500 '
+                       '亿人民币财富排名第六位。2018年10月10日，2018胡润百富榜发布，王卫以1200亿元，位列第七位，比2017年下降一位。',
+ 'person_nation': '汉族',
+ 'person_nationality': ''}
+
+{'person_achiem': '德邦物流股份有限公司董事长',
+ 'person_birthDay': '',
+ 'person_birthPlace': '山东诸城',
+ 'person_chName': '崔维星',
+ 'person_description': '崔维星，出生于山东诸城，毕业于厦门大学会计系，获管理学学士学位，德邦物流股份有限公司董事长兼总经理。他从“4个人、8平方米”起步，如今是121万平方米物流转运中心的掌门人；他会计出身、曾每天埋头对账，如今携手员工，为跨行业的客户提供快运、快递、整车、仓储与供应链的综合物流服务；他从广州起家，如今秉承着开放的心态，统筹管理着覆盖全国32个省级行政区的综合物流网络……在崔维星的带领下，德邦在过去20年里从一个货运小公司，稳步成长为一个以客户为中心、以先进的互联网技术为支撑的综合性物流集团。历经挑战，崔维星坚持以长跑理念，履行对客户、对员工、对合作伙伴的托付，践行“物畅其流、人尽其才”的企业使命。放眼未来，崔维星深信“以客户为中心、以进取者为本、以团队创高效”，带领德邦人继续走到客户中间、想到客户前面，让物流撬动更大的商业价值。',
+ 'person_nation': '汉',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '583.63亿美元（2015年）',
+ 'company_businessScope': '包裹快递',
+ 'company_chName': 'UPS快递',
+ 'company_chairMan': '',
+ 'company_description': 'UPS快递 (United Parcel Service)在1907 '
+                        '年作为一家信使公司成立于美国华盛顿州西雅图，是一家全球性的公司，其商标是世界上知名商标之一。作为世界上最大的快递承运商与包裹递送公司，同时也是运输、物流、资本与电子商务服务的领导性的提供者。UPS（联合包裹速递服务公司）是世界上最大的快递承运商与包裹递送公司，同时也是专业的运输、物流、资本与电子商务服务的领导性的提供者。UPS每天都在世界上200多个国家和地域管理着物流、资金流与信息流。通过结合货物流、信息流和资金流，UPS不断开发供应链管理、物流和电子商务的新领域，如今UPS已发展到拥有300亿美元资产的大公司。2017年6月7日，2017年《财富》美国500强排行榜发布，UPS快递排名第46位。2017年6月，《2017年BrandZ最具价值全球品牌100强》公布，UPS快递排名第16位。2018年7月19日，《财富》世界500强排行榜发布，UPS快递位列138位。2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，UPS快递排名第50位。',
+ 'company_enName': 'UPS Express',
+ 'company_headQuarterPlace': '美国华盛顿州西雅图市',
+ 'company_incorporationTime': '1907年8月28日',
+ 'company_slogan': '我们为您传递更多',
+ 'company_type': ''}
+
+{'company_annualTurnover': '111.5亿欧元',
+ 'company_businessScope': '快递和邮政服务',
+ 'company_chName': 'TNT集团',
+ 'company_chairMan': '',
+ 'company_description': 'TNT集团是全球领先的快递邮政服务供应商，为企业和个人客户提供全方位的快递和邮政服务。总部位于荷兰的TTNT集团，在欧洲和亚洲提供高效的递送网络，并且正通过在全球范围内扩大运营分布来最大幅度的优化网络效能。 '
+                        'TNT拥有151,000名员工，分布在200多个国家和地区。2008年，集团销售收入为111.5亿欧元，营业收入为9.82亿欧元。TNT集团在阿姆斯特丹股票交易所上市。2009年，TNT连续第三年在道琼斯可持续发展指数（DJSI）评估的千余家上市公司中位列榜首，并再次荣获 '
+                        '“工业产品和服务”领域“超级行业领袖”美誉。',
+ 'company_enName': 'TNT',
+ 'company_headQuarterPlace': '荷兰的TNT集团',
+ 'company_incorporationTime': '',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'person_achiem': '将宅急送公司从边缘线起死回生',
+ 'person_birthDay': '',
+ 'person_birthPlace': '',
+ 'person_chName': '陈显宝',
+ 'person_description': '陈显宝，北京宅急送快运股份有限公司董事长，优秀企业家、十大快递公司之一领导人。',
+ 'person_nation': '汉',
+ 'person_nationality': '中国'}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '邮件、快递、物流和金融',
+ 'company_chName': '德国邮政',
+ 'company_chairMan': '',
+ 'company_description': '德国邮政股份公司（Deutsche Post '
+                        'AG；LSE：DPO）是德国联邦邮政1995年私有化成立的私有制邮政公司，拆分后的另外两个企业是德国电信和德国邮政银行。德国邮政当前主要业务有四个方面：邮件、快递、物流和金融。德国邮政通过企业收购（DHL, '
+                        '邮政银行, '
+                        'Danzas等）构建起德国邮政国际网。2010年收入514亿8千万欧元，盈利25亿4千1百万欧元。到2010年德国邮政的网络覆盖220个国家和地区，全球拥有大约42万1270名员工。自2002起，德国邮政总部位于波恩的德国邮政大厦新的会议中心中。当前CEO是Frank '
+                        'Appel博士。2003年德国邮政收购了杜塞尔多夫私人邮件服务商First '
+                        'Mail全部股份。2005年6月14日重建信贷银行（Kreditanstalt für '
+                        'Wiederaufbau，KfW）又在资本市场上出售了价值20亿欧元的11.4%的德国邮政股份，自此德国邮政的国有资产部分低于50%。',
+ 'company_enName': 'Deutsche Post AG',
+ 'company_headQuarterPlace': '',
+ 'company_incorporationTime': '',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '综合物流和航运',
+ 'company_chName': '中国对外贸易运输（集团）总公司',
+ 'company_chairMan': '',
+ 'company_description': '中国对外贸易运输(集团)总公司(简称中国外运)是中国外运长航集团有限公司的前身，成立于1950年，中国外运是中国最大的国际货运代理公司、最大的航空货运和国际快件代理公司、第二大船务代理公司和第三大船公司。公司以海、陆、空国际货运代理业务为主，集海上运输、航空运输、航空快递、铁路运输、国际多式联运、汽车运输、仓储、船舶经营和管理、船舶租赁、船务代理、综合物流为一体的国际化大型现代综合物流企业集团，原系国务院国有资产监督管理委员会直属管理的中央企业集团之一。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '',
+ 'company_incorporationTime': '1950年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '市（州、盟）以上邮政类业务（包括快递市场）的行政监管部门',
+ 'company_chName': '邮政管理局',
+ 'company_chairMan': '',
+ 'company_description': '邮政管理局与邮政公司（原称“邮政局”）是两个完全不同的单位。邮政管理局是市（州、盟）以上邮政类业务（包括快递市场）的行政监管部门，最早出现于2006年。邮政公司（原称“邮政局”）是邮件寄递（生产）单位。邮政管理局是中央直属机构，国家公务员行政编制（纳入每年中央直属国家公务员考试）；邮政公司是国有企业组织。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京',
+ 'company_incorporationTime': '2006年',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '国内速递、国际速递、合同物流',
+ 'company_chName': '中国邮政速递物流股份有限公司',
+ 'company_chairMan': '',
+ 'company_description': '中国邮政速递物流主要经营国内速递、国际速递、合同物流等业务，国内、国际速递服务涵盖卓越、标准和经济不同时限水平和代收货款等增值服务，合同物流涵盖仓储、运输等供应链全过程。拥有享誉全球的特快专递品牌“EMS”和国内知名的物流品牌“CNPL”。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '北京市西城区宣武门西大街127号太平湖东里14号',
+ 'company_incorporationTime': '2010年6月',
+ 'company_slogan': '珍惜每一刻，用心每一步',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '快速送达',
+ 'company_chName': '港中能达速递',
+ 'company_chairMan': '',
+ 'company_description': '公司物流业务网络覆盖广东省，辐射全国，同时也开通香港地区的业务及国际货运业务',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '广东省',
+ 'company_incorporationTime': '',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '',
+ 'company_chName': '港中能达',
+ 'company_chairMan': '',
+ 'company_description': '广东港中能达物流有限公司创立于一九九九年十月，是经广东省工商行政管理局注册登记，广东省交通运输管理部门批准许可，集国内国际航空货运、铁路、公路运输、仓储配送、媒体配送、电子商务、速递等物流及相关业务为一体的网络化、信息化、智能化综合性物流公司。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '',
+ 'company_incorporationTime': '1999年10月',
+ 'company_slogan': '',
+ 'company_type': ''}
+
+{'company_annualTurnover': '',
+ 'company_businessScope': '',
+ 'company_chName': '港中能达',
+ 'company_chairMan': '',
+ 'company_description': '广东港中能达物流有限公司创立于一九九九年十月，是经广东省工商行政管理局注册登记，广东省交通运输管理部门批准许可，集国内国际航空货运、铁路、公路运输、仓储配送、媒体配送、电子商务、速递等物流及相关业务为一体的网络化、信息化、智能化综合性物流公司。',
+ 'company_enName': '',
+ 'company_headQuarterPlace': '',
+ 'company_incorporationTime': '1999年10月',
+ 'company_slogan': '',
+ 'company_type': ''}
