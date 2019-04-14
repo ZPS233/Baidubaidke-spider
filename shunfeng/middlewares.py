@@ -13,16 +13,16 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 #print('中间件初始化')
-#chrome_options = Options()
-## 使用无头谷歌浏览器模式
-#chrome_options.add_argument('--headless')  
-#chrome_options.add_argument('--disable-gpu')
-#chrome_options.add_argument('--no-sandbox')
-##禁止加载图片
-#prefs = {'profile.default_content_setting_values' : {'images' : 2} }
-#chrome_options.add_experimental_option('prefs',prefs)
-## 指定谷歌浏览器路径
-#driver = webdriver.Chrome(chrome_options=chrome_options,executable_path='D:\Anaconda3\Scripts\chromedriver')
+chrome_options = Options()
+# 使用无头谷歌浏览器模式
+chrome_options.add_argument('--headless')  
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument('--no-sandbox')
+#禁止加载图片
+prefs = {'profile.default_content_setting_values' : {'images' : 2} }
+chrome_options.add_experimental_option('prefs',prefs)
+# 指定谷歌浏览器路径
+driver = webdriver.Chrome(chrome_options=chrome_options,executable_path='D:\Anaconda3\Scripts\chromedriver')
         
 class RandomUserAgent(object):
     """Randomly rotate user agents based on a list of predefined ones"""

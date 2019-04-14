@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import re
 class Extract():
     #用于从网页的某节点中提取文字(从每个子节点中取到文字并组装在一起),但是针对两个标签接连出现且标签内都包含文字的情况 会出现组合顺序错误
     @staticmethod
@@ -24,5 +24,6 @@ class Extract():
         else:
             if text != []:
                 summary_text = text[0]
-        summary_text = summary_text.replace('\n','').replace('\xa0','')
-        return summary_text
+        summary_text = re.sub(' +', '', summary_text)
+        summary_text = summary_text.strip()
+        return summary_text.replace('\n','').replace('\xa0','').replace('\t','').replace('\r','').replace('\u3000','')

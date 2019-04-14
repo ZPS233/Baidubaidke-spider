@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 天天快递官网只有一个增值服务页面 即一个分类 五个服务 
+# 天天快递官网只有一个增值服务页面 即一个分类 五个服务 5个item
 from shunfeng.items import ServiceItem
 from shunfeng.items import TypeItem
 import scrapy
@@ -18,9 +18,9 @@ class TiantianSpider(scrapy.Spider):
         for node in typeNodes:
             if node.xpath('./@class').extract()[0] == 'smallTitle':
                 typeItem['serviceName'] = self.prefix + node.xpath('./text()').extract()[0]
-                print(typeItem)
+                yield typeItem
                 serviceItem['serviceName'] = typeItem['serviceName']
                 serviceItem['serviceItemName'] = '业务介绍'
             elif node.xpath('./@class').extract()[0] == 'smalldesc':
                 serviceItem['serviceItemDesc'] = node.xpath('./text()').extract()[0]
-                print(serviceItem)
+                yield serviceItem

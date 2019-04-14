@@ -4,6 +4,8 @@ import scrapy
 
 class Kuaidi100Item(scrapy.Item):
     name = scrapy.Field()
+    tel = scrapy.Field()
+    web = scrapy.Field()
     description = scrapy.Field()
     
 class TypeItem(scrapy.Item):

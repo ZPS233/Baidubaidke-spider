@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -13service *-
+# -*- coding: utf-8 -*-
+#要运行两遍的  4 13 38
 from shunfeng.items import ServiceItem
 from shunfeng.items import TypeItem
 from shunfeng.util import Extract
@@ -25,40 +26,39 @@ class EMSSpider(scrapy.Spider):
                     if a!= []:
                         self.links.append(a.xpath('./@href').extract()[0])
                         typeItem['serviceName'] = self.prefix + a.xpath('./text()').extract()[0]
-                        print(typeItem)
+                        if typeItem['serviceName'] == self.prefix+ '鲜花礼仪':
+                            typeItem['serviceName'] = self.prefix+'国内特快专递礼仪业务'
+                        yield(typeItem)
             typeItem['typeName'] = self.prefix + '物流业务'
             typeItem['serviceName'] = self.prefix + '合同物流'
-            print(typeItem)
+            yield(typeItem)
             typeItem['serviceName'] = self.prefix + '国际货代'
-            print(typeItem)
+            yield(typeItem)
             for link in self.links:  
                 new_full_url = urllib.parse.urljoin('http://www.ems.com.cn/mainservice/ems/', link)
-                print(new_full_url)
                 yield scrapy.Request(new_full_url, callback=self.parse)
         else:
-            ps = response.xpath('/html/body/div[2]/div[2]/*')
             serviceItem = ServiceItem()
+            ns = response.xpath('/html/body/div[2]/div[2]/*')
             text = ''
-            for p in ps:
-                t = Extract.extractNodeText(p)
-                t= t.replace('\t','').replace('\r','')
-                pclassText = p.xpath('./@class').extract()
-                pclass = ''
-                if pclassText != []:
-                    pclass = pclassText[0]
-                    if p == ps[-2]:
-                        text = text+t
-                        serviceItem['serviceItemDesc'] = text
-                        print(serviceItem)
-                    elif p == ps[2]:
-#                        print('############################3\n',t,'\n####################3')
-                        serviceItem['serviceName'] = self.prefix + t
-                        serviceItem['serviceItemName'] = '业务简介'
-                    elif pclass == 'title' or pclass == 'title p_text_middle':
-                        if p != ps[3]:
-                            serviceItem['serviceItemDesc'] = text
-                            print(serviceItem)
-                        serviceItem['serviceItemName'] = self.prefix + t
-                        text = ''
-                    else:
-                        text = text + t    
+            if 'script' in ns[-1].extract():
+                ns = ns[2:-1]
+            else:
+                ns = ns[2:]
+            for n in ns:
+                t = Extract.extractNodeText(n)
+                nText = n.extract()
+                if n == ns[0]:
+                    serviceItem['serviceName'] = self.prefix + t
+                    serviceItem['serviceItemName'] = '业务简介'
+                elif n == ns[-1]:
+                    text = text + t
+                    serviceItem['serviceItemDesc'] = text
+                    yield(serviceItem)
+                elif 'title' in nText and n!= ns[1]:
+                    serviceItem['serviceItemDesc'] = text
+                    yield(serviceItem)
+                    text = ''
+                    serviceItem['serviceItemName'] =  t
+                else:
+                    text = text + t    

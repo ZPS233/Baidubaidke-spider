@@ -29,75 +29,98 @@ class ShunfengPipeline(object):
     def process_item(self, item, spider):
         if isinstance(item, Kuaidi100Item):
             #如果存在数据,判断是否重复,但是好像判断还是有问题
-#            self.cursor.execute("SELECT company_chName,company_description FROM company;")
-#            companyinfo = self.cursor.fetchall()
-#            flag = 0
-#            for info in companyinfo:
-#                if (item['name'] in info[0]) or (item['name'] in info[1]):
-#                    print('已经存在',info[0],'------',item['name'],'无法插入')
-#                    item['description'] = item['description'] + info[1]
-#                    sql = "UPDATE company SET company_description = '"+item['description']+"'where company_chName ='"+info[0]+"';"
-#                    self.cursor.execute(sql)
-#                    flag = 1
-#            if flag == 0:
-            #如果数据库里没有数据 则把快递100爬到的信息全部直接插入
-            self.cursor.execute("SELECT MAX(company_id) FROM company")
-            result = self.cursor.fetchall()[0]
-            if None in result:
-                company_id = 1
-            else:
-                company_id = result[0] + 1
-            sql = """
-                INSERT INTO company(company_id ,company_chName , company_description ) VALUES (%s, %s, %s)
-                """
-            self.cursor.execute(sql, (company_id, item['name'],item['description'] ))
+            self.cursor.execute("SELECT company_chName FROM company;")
+            companyinfo = self.cursor.fetchall()
+            flag = 0
+            for info in companyinfo:
+                if item['name'] == info[0] :
+                    print('已经存在',info[0],'------',item['name'],'无法插入')
+                    flag = 1
+            if flag == 0:
+                #如果数据库里没有数据 则把快递100爬到的信息全部直接插入
+                self.cursor.execute("SELECT MAX(company_id) FROM company")
+                result = self.cursor.fetchall()[0]
+                if None in result:
+                    company_id = 1
+                else:
+                    company_id = result[0] + 1
+                sql = """
+                    INSERT INTO company(company_id,company_chName,company_tel,company_website,company_kuaidi100Description) VALUES (%s, %s, %s, %s, %s)
+                    """
+                self.cursor.execute(sql, (company_id, item['name'], item['tel'], item['web'], item['description']))
         elif isinstance(item,TypeItem):
-            #先判断在type表中该类型是否已经存在
-            self.cursor.execute("SELECT type_id FROM type where type_name = '"+item['name']+"' ;")
-            result_id = self.cursor.fetchone() 
-            if None == result_id:
-                #不存在,则存储
-                #根据item['name']的prefix 找到 公司ID
-                self.cursor.execute("SELECT company_id FROM company where company_chName like '%"+item['name'][0:2]+"%' ;")
-                #假定该company一定存在,取[0]
-                companyId = self.cursor.fetchone()[0]
-                print('不存在该serviceType,存储,属于的companyID为:',companyId)
-                #存储type
-                sql = "INSERT INTO type(type_name,type_company_id) VALUES (%s, %s) "
-                self.cursor.execute(sql, (item['name'],companyId))
-                #ID自增,获得新存储的type的ID
-                self.cursor.execute("SELECT MAX(type_id) FROM type")
-                result_id = self.cursor.fetchone()
+            #先判断在servicetype表中该类型是否已经存在
+            self.cursor.execute("SELECT servicetype_id FROM servicetype where servicetype_name = '"+item['typeName']+"' ;")
+            servicetype_id = self.cursor.fetchone() 
+            #不存在,则存储
+            if None == servicetype_id:
+                #根据item['typeName']的prefix 找到 公司ID
+                companyName = item['typeName'].split('-')[0]
+                self.cursor.execute("SELECT company_id FROM company where company_chName = '"+companyName+"' ;")
+                #通过更改快递100查到的公司名称 保证该company一定存在,取[0]
+                companyId = self.cursor.fetchone()
+                print('不存在该serviceType',item['typeName'],'存储该type,companyID为:',companyId)
+                
+                
+                self.cursor.execute("SELECT MAX(servicetype_id) FROM servicetype")
+                stid = self.cursor.fetchone()[0]
+                if None == stid:
+                    servicetype_id = 1
+                else:
+                    servicetype_id = stid + 1
+                #存储servicetype
+                sql = "INSERT INTO servicetype(servicetype_id,servicetype_name,company_id) VALUES (%s, %s, %s) "
+                self.cursor.execute(sql, (servicetype_id, item['typeName'],companyId))
+
             else:
-                print('重复的service-type')
+                print('重复的servicetype')
             #存储对应service,先判断该service是否存在
-            self.cursor.execute("SELECT * FROM service where service_name = '"+item['itemName']+"' and service_type_id = '"+ str(result_id[0]) +"' ;")
+            self.cursor.execute("SELECT * FROM service where service_name = '"+item['serviceName']+"' ;")
             result = self.cursor.fetchone() 
             if None == result:
-                sql = "INSERT INTO service(service_name,service_type_id) VALUES (%s, %s) "
-                self.cursor.execute(sql, (item['itemName'],result_id))
+                self.cursor.execute("SELECT MAX(service_id) FROM service")
+                sid = self.cursor.fetchone()[0]
+                if None == sid:
+                    service_id = 1
+                else:
+                    service_id = sid + 1
+                sql = "INSERT INTO service(service_id,service_name,servicetype_id) VALUES (%s, %s, %s) "
+                self.cursor.execute(sql, (service_id,item['serviceName'],servicetype_id))
             else:
                 print('重复的service')
             
         elif isinstance(item,ServiceItem):
-            #service_name      sub_item_title    sub_item_des 
+            if item['serviceItemDesc'] == '':
+                return item
+            #serviceName      serviceItemName    serviceItemDesc 
+            
             #存储serviceitem,首先判断service是否存在
-            #在service表中找到service_name与 item['service_name']一致的service_id
-            self.cursor.execute("SELECT service_id FROM service where service_name = '"+item['service_name']+"' ;")
-            result_id = self.cursor.fetchone() 
-            if None == result_id:
-                print('错误:缺少该service',item['service_name'])
+            
+            #在service表中找到service_name与 item['serviceName']一致的service的service_id
+            self.cursor.execute("SELECT service_id FROM service where service_name = '"+item['serviceName']+"' ;")
+            service_id = self.cursor.fetchone() 
+            if None == service_id:
+                print('错误:缺少该service',item['serviceName'])
             else:
-                s = "SELECT * FROM service_item where service_item_name = %s and service_id = %s "
-                self.cursor.execute(s,(item['sub_item_title'],result_id[0]))
+                #判断serviceItem是否存在  根据serviceItemName 和servicID 
+                s = "SELECT * FROM serviceitem where serviceitem_name = %s and service_id = %s "
+                
+                self.cursor.execute(s,(item['serviceItemName'],service_id[0]))
                 result = self.cursor.fetchone() 
+                #不存在该serviceitem
                 if None == result:
+                    self.cursor.execute("SELECT MAX(serviceitem_id) FROM serviceitem")
+                    siid = self.cursor.fetchone()[0]
+                    if None == siid:
+                        serviceitem_id = 1
+                    else:
+                        serviceitem_id = siid + 1
                     sql = """
-                             INSERT INTO service_item(service_item_name,service_item_desc,service_id) VALUES (%s, %s, %s)
+                             INSERT INTO serviceitem(serviceitem_id,serviceitem_name,serviceitem_description,service_id) VALUES (%s, %s, %s, %s)
                           """
-                    self.cursor.execute(sql, (item['sub_item_title'],item['sub_item_des'],result_id[0])) 
+                    self.cursor.execute(sql, (serviceitem_id,item['serviceItemName'],item['serviceItemDesc'],service_id[0])) 
                 else:
-                    print('重复的service-item')
+                    print('重复的service-item:',item['serviceItemName'],item['serviceItemDesc'],'service_id',service_id[0])
 
         elif isinstance(item, CompanyBasicInfoItem):
 #            self.f.write(str(item))
